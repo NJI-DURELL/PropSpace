@@ -1,4 +1,4 @@
-# PropSpace — Property Listing App
+# PropSpace  Property Listing App
 
 A full-stack web app for listing, browsing, and managing properties for rent or sale in Cameroon. Built with React, Node/Express, and MongoDB.
 
@@ -10,7 +10,7 @@ A full-stack web app for listing, browsing, and managing properties for rent or 
 - Registered users can create, edit, and delete their own listings
 - Each user has a dashboard showing only their properties
 - Profile page lets you update your name, phone, and avatar, or change your password
-- JWT handles authentication — tokens are stored client-side and attached automatically to every request
+- JWT handles authentication; tokens are stored client-side and attached automatically to every request
 
 ---
 
